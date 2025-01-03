@@ -5,7 +5,7 @@ programming, and the development of improvements in optimization algorithms like
 currently interested in improving my research using genetic algorithms and deep learning. 
 
 On the other hand, I look forward to applying my expertise to new challenges in other fields, such as
-quantum computing or energetic efficiency for quantum hardware, and I'm carrying personal projects in
+quantum hardware design and quantitative finance, and I'm carrying personal projects in
 other languages like Rust.
 
 
