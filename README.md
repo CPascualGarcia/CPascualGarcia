@@ -10,7 +10,7 @@ other languages like Rust.
 
 
 If you are interested in my reseach or feel I could help you somehow, you may reach me through LinkedIn
-(Carlos Pascual García) or my official e-mail (carlos.pascual@icfo.eu)
+(Carlos Pascual-García) or my official e-mail (carlos.pascual@luxquanta.com)
 
 
 <!---
